@@ -1,0 +1,15 @@
+/Users/dhanushka/projects/RegularExpression/RegularExpression/bin/Debug/net7.0/RegularExpression
+/Users/dhanushka/projects/RegularExpression/RegularExpression/bin/Debug/net7.0/RegularExpression.deps.json
+/Users/dhanushka/projects/RegularExpression/RegularExpression/bin/Debug/net7.0/RegularExpression.runtimeconfig.json
+/Users/dhanushka/projects/RegularExpression/RegularExpression/bin/Debug/net7.0/RegularExpression.dll
+/Users/dhanushka/projects/RegularExpression/RegularExpression/bin/Debug/net7.0/RegularExpression.pdb
+/Users/dhanushka/projects/RegularExpression/RegularExpression/obj/Debug/net7.0/RegularExpression.csproj.AssemblyReference.cache
+/Users/dhanushka/projects/RegularExpression/RegularExpression/obj/Debug/net7.0/RegularExpression.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhanushka/projects/RegularExpression/RegularExpression/obj/Debug/net7.0/RegularExpression.AssemblyInfoInputs.cache
+/Users/dhanushka/projects/RegularExpression/RegularExpression/obj/Debug/net7.0/RegularExpression.AssemblyInfo.cs
+/Users/dhanushka/projects/RegularExpression/RegularExpression/obj/Debug/net7.0/RegularExpression.csproj.CoreCompileInputs.cache
+/Users/dhanushka/projects/RegularExpression/RegularExpression/obj/Debug/net7.0/RegularExpression.dll
+/Users/dhanushka/projects/RegularExpression/RegularExpression/obj/Debug/net7.0/refint/RegularExpression.dll
+/Users/dhanushka/projects/RegularExpression/RegularExpression/obj/Debug/net7.0/RegularExpression.pdb
+/Users/dhanushka/projects/RegularExpression/RegularExpression/obj/Debug/net7.0/RegularExpression.genruntimeconfig.cache
+/Users/dhanushka/projects/RegularExpression/RegularExpression/obj/Debug/net7.0/ref/RegularExpression.dll
