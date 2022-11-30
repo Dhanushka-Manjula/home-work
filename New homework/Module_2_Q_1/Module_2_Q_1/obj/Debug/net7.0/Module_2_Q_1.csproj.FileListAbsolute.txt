@@ -1,0 +1,15 @@
+/Users/dhanushka/projects/Module_2_Q_1/Module_2_Q_1/bin/Debug/net7.0/Module_2_Q_1
+/Users/dhanushka/projects/Module_2_Q_1/Module_2_Q_1/bin/Debug/net7.0/Module_2_Q_1.deps.json
+/Users/dhanushka/projects/Module_2_Q_1/Module_2_Q_1/bin/Debug/net7.0/Module_2_Q_1.runtimeconfig.json
+/Users/dhanushka/projects/Module_2_Q_1/Module_2_Q_1/bin/Debug/net7.0/Module_2_Q_1.dll
+/Users/dhanushka/projects/Module_2_Q_1/Module_2_Q_1/bin/Debug/net7.0/Module_2_Q_1.pdb
+/Users/dhanushka/projects/Module_2_Q_1/Module_2_Q_1/obj/Debug/net7.0/Module_2_Q_1.csproj.AssemblyReference.cache
+/Users/dhanushka/projects/Module_2_Q_1/Module_2_Q_1/obj/Debug/net7.0/Module_2_Q_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhanushka/projects/Module_2_Q_1/Module_2_Q_1/obj/Debug/net7.0/Module_2_Q_1.AssemblyInfoInputs.cache
+/Users/dhanushka/projects/Module_2_Q_1/Module_2_Q_1/obj/Debug/net7.0/Module_2_Q_1.AssemblyInfo.cs
+/Users/dhanushka/projects/Module_2_Q_1/Module_2_Q_1/obj/Debug/net7.0/Module_2_Q_1.csproj.CoreCompileInputs.cache
+/Users/dhanushka/projects/Module_2_Q_1/Module_2_Q_1/obj/Debug/net7.0/Module_2_Q_1.dll
+/Users/dhanushka/projects/Module_2_Q_1/Module_2_Q_1/obj/Debug/net7.0/refint/Module_2_Q_1.dll
+/Users/dhanushka/projects/Module_2_Q_1/Module_2_Q_1/obj/Debug/net7.0/Module_2_Q_1.pdb
+/Users/dhanushka/projects/Module_2_Q_1/Module_2_Q_1/obj/Debug/net7.0/Module_2_Q_1.genruntimeconfig.cache
+/Users/dhanushka/projects/Module_2_Q_1/Module_2_Q_1/obj/Debug/net7.0/ref/Module_2_Q_1.dll
